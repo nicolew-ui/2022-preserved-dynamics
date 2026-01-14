@@ -10,7 +10,7 @@ from random_walk import defs as random_walk_defs
 from rnn import defs as rnn_defs
 
 repoPath = pathlib.Path.cwd()
-root = pathlib.Path("/Users/nicole/Downloads/BCI lab 2025/Data")
+root = pathlib.Path("/Users/nicole/Downloads/BCI project/Data")
 # root = pathlib.Path(repoPath/"data")
 figPath = repoPath / 'figures'
 LargeFig = (7,8)
